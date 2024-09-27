@@ -115,18 +115,6 @@ ESP8266-UDP-Audio-Streamer/
 
 ---
 
-### **📝 License**
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-### **📞 Contact**
-
-For any inquiries or support, please open an issue on the repository or contact [your-email@example.com](mailto:your-email@example.com).
-
----
-
 ### **🧡 Acknowledgements**
 
 - **ESP8266 Community:** For their extensive resources and support.
