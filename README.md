@@ -90,8 +90,14 @@ Use [FakeCH340DriverFixer](https://github.com/SHWotever/FakeCH340DriverFixer) if
 
 
 ### **🎛 Pin Layout**
-Credits to [aleiei](https://github.com/aleiei/ESP8266-BUG-I2S-MIC)
-[ESP8266_I2S_MEMS](https://github.com/user-attachments/assets/b16ccf1d-e9f9-4fcb-9e1d-5cedfd5af73a)
+INMP441:
+```
+WS > D5
+SD > D6
+SCK > D7
+VDD > 3.3v
+GND > GND
+```
 
 
 ### **🎛 Usage**
