@@ -88,6 +88,12 @@ Use [FakeCH340DriverFixer](https://github.com/SHWotever/FakeCH340DriverFixer) if
 
 ---
 
+
+### **🎛 Pin Layout**
+Credits to [aleiei](https://github.com/aleiei/ESP8266-BUG-I2S-MIC)
+[ESP8266_I2S_MEMS](https://github.com/user-attachments/assets/b16ccf1d-e9f9-4fcb-9e1d-5cedfd5af73a)
+
+
 ### **🎛 Usage**
 
 1. **Power Up the ESP8266:**
@@ -128,6 +134,6 @@ ESP8266-UDP-Audio-Streamer/
 - [ESP8266 Arduino Core](https://github.com/esp8266/Arduino)
 - [PyAudio Documentation](https://people.csail.mit.edu/hubert/pyaudio/docs/)
 - [Numpy Documentation](https://numpy.org/doc/)
-- [ESP8266-BUG-I2S-MIC](https://github.com/aleiei/ESP8266-BUG-I2S-MICp)
+- [ESP8266-BUG-I2S-MIC](https://github.com/aleiei/ESP8266-BUG-I2S-MIC)
 - [FakeCH340DriverFixer](https://github.com/SHWotever/FakeCH340DriverFixer)
 ---
